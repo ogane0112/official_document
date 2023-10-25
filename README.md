@@ -11,3 +11,15 @@
 
 # RUST
 [公式日本語訳ドキュメント](https://doc.rust-jp.rs/the-rust-programming-language-ja/1.6/book/)
+
+
+# React
+
+[公式日本語訳ドキュメント](https://ja.react.dev/learn)
+
+**参考サイト**
+- https://qiita.com/FumioNonaka/items/d70585bd3c0a6d4edc24
+
+**公式ドキュメントをみて出来るようになったこと**
+- 公式ドキュメントを読めるようになった！
+- Reactの基礎やどんな考えで生み出されたのか理解できた!
