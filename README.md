@@ -1,8 +1,10 @@
 # official_document
 公式ドキュメントをまとめて正直理解不能なドキュメントを読み進めるために参考にしたサイトをまとめてみました。
 # vue.js
-[公式ドキュメント](https://ja.vuejs.org/)  
-
+[公式ドキュメント](https://ja.vuejs.org/)  　　
+**公式ドキュメントを見て分かったこと,できるようになったこと**  
+- vueの基礎文法を理解する事ができた.
+- 
 **参考サイト** 
 
 - https://qiita.com/moyegogo1020/items/7cf9daaacc6bac1b3c33
